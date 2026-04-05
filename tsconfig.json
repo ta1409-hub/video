@@ -7,9 +7,9 @@
     "noEmit": true,
     "lib": ["es2015"],
     "esModuleInterop": true,
-    "skipLibCheck": true,
     "forceConsistentCasingInFileNames": true,
-    "noUnusedLocals": true
+    "noUnusedLocals": true,
+    "noUnusedParameters": true
   },
   "exclude": ["remotion.config.ts"]
 }

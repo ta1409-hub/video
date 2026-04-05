@@ -3,73 +3,69 @@
   "elements": [
     {
       "startMs": 0,
-      "endMs": 5000,
-      "imageUrl": "11f4911a-f39f-4567-8963-41511d05b593",
+      "endMs": 7616,
+      "imageUrl": "83e869e5-18fd-4de9-b70f-dc0f180da912",
       "enterTransition": "blur",
       "exitTransition": "blur",
-      "animations": [
-        {
-          "type": "scale",
-          "startMs": 0,
-          "endMs": 5000,
-          "from": 1,
-          "to": 1.2
-        }
-      ]
+      "animations": [{ "type": "scale", "from": 1.5, "to": 1, "startMs": 0, "endMs": 7616 }]
     },
     {
-      "startMs": 5000,
-      "endMs": 10000,
+      "startMs": 7616,
+      "endMs": 11935,
+      "imageUrl": "99af6411-714b-4b72-b66e-f6c02a184493",
+      "enterTransition": "blur",
+      "exitTransition": "blur",
+      "animations": [{ "type": "scale", "from": 1, "to": 1.5, "startMs": 0, "endMs": 4319 }]
+    },
+    {
+      "startMs": 11935,
+      "endMs": 18762,
+      "imageUrl": "919d538b-3407-440a-b26a-73a5321a3af0",
+      "enterTransition": "blur",
+      "exitTransition": "blur",
+      "animations": [{ "type": "scale", "from": 1.5, "to": 1, "startMs": 0, "endMs": 6827 }]
+    },
+    {
+      "startMs": 18762,
+      "endMs": 24753,
       "imageUrl": "20cf0ab8-49cb-4ead-816d-6af0b588668a",
       "enterTransition": "blur",
       "exitTransition": "blur",
-      "animations": [
-        {
-          "type": "scale",
-          "startMs": 5000,
-          "endMs": 10000,
-          "from": 1.2,
-          "to": 1
-        }
-      ]
+      "animations": [{ "type": "scale", "from": 1, "to": 1.5, "startMs": 0, "endMs": 5991 }]
+    },
+    {
+      "startMs": 24753,
+      "endMs": 28886,
+      "imageUrl": "11f4911a-f39f-4567-8963-41511d05b593",
+      "enterTransition": "blur",
+      "exitTransition": "blur",
+      "animations": [{ "type": "scale", "from": 1.5, "to": 1, "startMs": 0, "endMs": 4133 }]
+    },
+    {
+      "startMs": 28886,
+      "endMs": 34087,
+      "imageUrl": "5584e376-d02e-48fc-9e47-fc7bf86000af",
+      "enterTransition": "blur",
+      "exitTransition": "blur",
+      "animations": [{ "type": "scale", "from": 1, "to": 1.5, "startMs": 0, "endMs": 5201 }]
+    },
+    {
+      "startMs": 34087,
+      "endMs": 40496,
+      "imageUrl": "33b24fbd-dc71-4692-87af-fdff7661c222",
+      "enterTransition": "blur",
+      "exitTransition": "blur",
+      "animations": [{ "type": "scale", "from": 1.5, "to": 1, "startMs": 0, "endMs": 6409 }]
+    },
+    {
+      "startMs": 40496,
+      "endMs": 54056,
+      "imageUrl": "90917ba0-8b7c-4309-a784-4f1fdc28d9fb",
+      "enterTransition": "blur",
+      "exitTransition": "blur",
+      "animations": [{ "type": "scale", "from": 1, "to": 1.5, "startMs": 0, "endMs": 13560 }]
     }
   ],
-  "text": [
-    {
-      "startMs": 0,
-      "endMs": 2500,
-      "text": "VENUS",
-      "position": "center"
-    },
-    {
-      "startMs": 2500,
-      "endMs": 5000,
-      "text": "SECOND PLANET",
-      "position": "center"
-    },
-    {
-      "startMs": 5000,
-      "endMs": 7500,
-      "text": "FROM THE SUN",
-      "position": "center"
-    },
-    {
-      "startMs": 7500,
-      "endMs": 10000,
-      "text": "HOTTEST PLANET",
-      "position": "center"
-    }
-  ],
-  "audio": [
-    {
-      "startMs": 0,
-      "endMs": 5000,
-      "audioUrl": "11f4911a-f39f-4567-8963-41511d05b593"
-    },
-    {
-      "startMs": 5000,
-      "endMs": 10000,
-      "audioUrl": "20cf0ab8-49cb-4ead-816d-6af0b588668a"
-    }
-  ]
+  "text": [],
+  "audio": []
 }
